@@ -5,7 +5,7 @@ Integrate DLNA music player into and control them through smart home running Nod
 
 
 ## Setup prerequisites
-This whole appreach is based on 'node-red-contrib-upnp', even though it's *not available ready-to-use* from within node-red add-on repo.
+This whole approach is based on 'node-red-contrib-upnp', even though it's *not available ready-to-use* from within node-red add-on repo.
 
 If you running node-red in docker (like so https://github.com/ct-Open-Source/ct-Smart-Home), you might use the following commands to achieve upnp installing:
 
